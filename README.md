@@ -1,2 +1,2 @@
-# Griet_Forum
-Discussion forum
+# Gforum
+Group Discussion forum
